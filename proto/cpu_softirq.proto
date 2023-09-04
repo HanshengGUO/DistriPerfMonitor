@@ -1,0 +1,16 @@
+syntax = "proto3";
+package monitor.proto;
+
+message SoftIrq {
+    string cpu = 1;
+    float hi = 2;
+    float timer = 3;
+    float net_tx = 4;
+    float net_rx = 5;
+    float block = 6;
+    float irq_poll = 7;
+    float tasklet = 8;
+    float sched = 9;
+    float hrtimer = 10;
+    float rcu = 11;
+  }

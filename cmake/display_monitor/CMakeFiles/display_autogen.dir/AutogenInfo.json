@@ -1,0 +1,165 @@
+{
+	"BUILD_DIR" : "/work/cmake/display_monitor/display_autogen",
+	"CMAKE_BINARY_DIR" : "/work/cmake",
+	"CMAKE_CURRENT_BINARY_DIR" : "/work/cmake/display_monitor",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/work/display_monitor",
+	"CMAKE_EXECUTABLE" : "/usr/local/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/work/display_monitor/CMakeLists.txt",
+		"/usr/local/qt5/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5/Qt5Config.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/local/share/cmake-3.26/Modules/CMakeParseArguments.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/local/qt5/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/local/share/cmake-3.26/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/work",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/work/display_monitor/cpu_load_model.h",
+			"Mu",
+			"EWIEGA46WW/moc_cpu_load_model.cpp",
+			null
+		],
+		[
+			"/work/display_monitor/cpu_stat_model.h",
+			"Mu",
+			"EWIEGA46WW/moc_cpu_stat_model.cpp",
+			null
+		],
+		[
+			"/work/display_monitor/monitor_inter.h",
+			"Mu",
+			"EWIEGA46WW/moc_monitor_inter.cpp",
+			null
+		],
+		[
+			"/work/display_monitor/monitor_model.h",
+			"Mu",
+			"EWIEGA46WW/moc_monitor_model.cpp",
+			null
+		],
+		[
+			"/work/display_monitor/monitor_widget.h",
+			"Mu",
+			"EWIEGA46WW/moc_monitor_widget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/work/cmake/display_monitor/display_autogen/include",
+	"MOC_COMPILATION_FILE" : "/work/cmake/display_monitor/display_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"__CLANG_SUPPORT_DYN_ANNOTATION__"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/work/rpc_manager",
+		"/work/cmake/proto",
+		"/usr/local/qt5/include",
+		"/usr/local/qt5/include/QtWidgets",
+		"/usr/local/qt5/include/QtGui",
+		"/usr/local/qt5/include/QtCore",
+		"/usr/local/qt5/mkspecs/linux-g++",
+		"/usr/local/include",
+		"/usr/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/work/cmake/display_monitor/display_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/work/cmake/display_monitor/CMakeFiles/display_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/work/cmake/display_monitor/CMakeFiles/display_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/work/display_monitor/cpu_load_model.cpp", "Mu", null ],
+		[ "/work/display_monitor/cpu_stat_model.cpp", "Mu", null ],
+		[ "/work/display_monitor/main.cpp", "Mu", null ],
+		[ "/work/display_monitor/monitor_inter.cpp", "Mu", null ],
+		[ "/work/display_monitor/monitor_model.cpp", "Mu", null ],
+		[ "/work/display_monitor/monitor_widget.cpp", "Mu", null ]
+	],
+	"VERBOSITY" : 0
+}

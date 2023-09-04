@@ -1,0 +1,14 @@
+syntax = "proto3";
+package monitor.proto;
+
+message CpuStat{
+    string cpu_name = 1;
+    float cpu_percent = 2;
+    float usr_percent = 3;
+    float system_percent = 4;
+    float nice_percent = 5;
+    float idle_percent = 6;
+    float io_wait_percent = 7;
+    float irq_percent = 8;
+    float soft_irq_percent = 9;
+  }

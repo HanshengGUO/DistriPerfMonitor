@@ -1,0 +1,25 @@
+syntax = "proto3";
+package monitor.proto;
+
+message MemInfo {
+    float total = 1;
+    float free = 2;
+    float avail= 3;
+    float buffers = 4;
+    float cached = 5;
+    float swap_cached = 6;
+    float active = 7;
+    float inactive = 8;
+    float active_anon = 9;
+    float inactive_anon = 10;
+    float active_file = 11;
+    float inactive_file = 12;
+    float dirty = 13;
+    float writeback = 14;
+    float anon_pages = 15;
+    float mapped = 16;
+    float kReclaimable = 17;
+    float sReclaimable = 18;
+    float sUnreclaim = 19;
+    float used_percent = 31;
+  }

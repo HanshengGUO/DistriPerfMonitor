@@ -1,0 +1,23 @@
+"C:\Program Files\JetBrains\CLion 2022.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\guo_h\Dropbox\PC (4)\Documents\private-node-master" -B "C:\Users\guo_h\Dropbox\PC (4)\Documents\private-node-master\cmake-build-debug"
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2022.3.3/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ZLIB: C:/ProgramData/anaconda3/Library/lib/z.lib (found version "1.2.13") 
+CMake Error at proto/CMakeLists.txt:2 (find_package):
+  Could not find a package configuration file provided by "gRPC" with any of
+  the following names:
+
+    gRPCConfig.cmake
+    grpc-config.cmake
+
+  Add the installation prefix of "gRPC" to CMAKE_PREFIX_PATH or set
+  "gRPC_DIR" to a directory containing one of the above files.  If "gRPC"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/guo_h/Dropbox/PC (4)/Documents/private-node-master/cmake-build-debug/CMakeFiles/CMakeOutput.log".
