@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmonitor_proto.a CMakeFiles/monitor_proto.dir/monitor_info.pb.cc.o CMakeFiles/monitor_proto.dir/monitor_info.grpc.pb.cc.o
+/usr/bin/ranlib libmonitor_proto.a
